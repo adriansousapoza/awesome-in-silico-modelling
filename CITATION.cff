@@ -4,14 +4,14 @@ type: dataset
 title: "Awesome In Silico Modelling: A Curated List of Perturbation Modelling and Gene Regulatory Network Inference Resources"
 abstract: "A carefully curated list with papers and code regarding in silico perturbation modelling and gene regulatory network (GRN) inference, focusing on computational approaches from single-cell RNA sequencing and related omics modalities."
 authors:
-  - family-names: "Your-Last-Name"
-    given-names: "Your-First-Name"
-    orcid: "https://orcid.org/0000-0000-0000-0000"  # Replace with your ORCID
+  - family-names: "Sousa-Poza"
+    given-names: "Adrián Avelino"
+    orcid: "https://orcid.org/0009-0004-2550-7868"
 date-released: "2025-09-01"
 version: "1.0.0"
 license: MIT
-repository-code: "https://github.com/your-username/awesome-in-silico-modelling"  # Replace with your repo
-url: "https://github.com/your-username/awesome-in-silico-modelling"  # Replace with your repo
+repository-code: "https://github.com/adriansousapoza/awesome-in-silico-modelling"  # Replace with your repo
+url: "https://github.com/adriansousapoza/awesome-in-silico-modelling"  # Replace with your repo
 keywords:
   - "single-cell"
   - "perturbation-modelling"
