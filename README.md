@@ -1,6 +1,6 @@
 # Awesome In Silico Modelling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A carefully curated list with papers and code regarding in silico perturbation modelling and gene regulatory network (GRN) inference
+> A Curated List of Perturbation Modelling and Gene Regulatory Network Inference Resources
 
 This list focuses on computational approaches to model cellular responses to perturbations and infer gene regulatory networks, primarily from single-cell RNA sequencing data and related omics modalities.
 
